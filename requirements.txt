@@ -1,0 +1,11 @@
+# To make API requests
+requests
+
+# To fix SSL issues in newer Python versions (https://tiny.cc/4e0hfz)
+pyopenssl
+
+# To load .env file if running locally
+python-dotenv
+
+# For json exceptions
+simplejson
